@@ -4,7 +4,7 @@
   /* // Q.1
   public static void main(String args[])
   {
-   System.out.println("Hello\nAtul Suryavanshi");
+   System.out.println("Hello\nAshok kokare");
   }
   */
   
