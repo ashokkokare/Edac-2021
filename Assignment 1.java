@@ -1,14 +1,14 @@
  import java.util.Scanner;
  public class Assignment1
  {
-  /* // Q.1
+  /* // Q.1 Name 
   public static void main(String args[])
   {
    System.out.println("Hello\nAshok kokare");
   }
   */
   
-  /* // Q.2
+  /* // Q.2 Summation
   public static void main (String args[])
   {
 	int n1=74,n2=36;
@@ -18,7 +18,7 @@
   }
   */
  
- /* // Q.3
+ /* // Q.3 Division
    public static void main(String args[])
    {
 	 int c1=50, c2=3;
